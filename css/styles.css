@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(../img/puerto-rico-resort.webp);
+  background-size: cover;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.header {
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.582);
+  padding: 16px;
+  gap: 16px;
+}
+
+.heading {
+  font-size: 48px;
+  text-align: center;
+}
+
+.section1 {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
